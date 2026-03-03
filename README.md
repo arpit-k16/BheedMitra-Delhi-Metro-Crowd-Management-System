@@ -209,7 +209,8 @@ infrastructure.
 
 ## 📬 Contact
 
-Arpit Kumar\
+Arpit Kumar
+Student
 Department of Computer Science\
 Bennett University
 
