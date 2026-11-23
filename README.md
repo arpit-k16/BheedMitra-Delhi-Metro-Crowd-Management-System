@@ -216,4 +216,11 @@ Bennett University
 
 ------------------------------------------------------------------------
 
+## 👥 Contributors
+
+- Arpit Kumar
+- Lakshay Bansal
+
+------------------------------------------------------------------------
+
 ⭐ If you find this project interesting, consider giving it a star!
